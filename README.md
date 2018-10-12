@@ -1,6 +1,6 @@
 This code constructs a bash script that can simulate the "netflow v5" flows of a randomized, and arbitrarly large, network.
 
-It requires [flowgen](https://github.com/mshindo/NetFlow-Generator/), specifically its [modified version ](https://github.com/jccardonar/NetFlow-Generator/)), to generate the flows.
+It requires [flowgen](https://github.com/mshindo/NetFlow-Generator/), specifically its [modified version ](https://github.com/jccardonar/NetFlow-Generator/), to generate the flows.
 
 run `python netflow_wrapper.py --help` for instructions. 
 
